@@ -1,0 +1,8 @@
+.venv/
+Include/
+Lib/
+Scripts/
+run.py
+*.log
+*.tmp
+.DS_Store
