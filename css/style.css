@@ -34,7 +34,7 @@ ul li a {
 	width: 100%;
 	height: 910px;
 	background-repeat: no-repeat;
-	background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../images/header.png);
+	background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../images/header.webp);
 	background-size: cover;
 }
 
@@ -155,7 +155,7 @@ ul li a {
 }
 
 .project__block {
-	background-image: url(../images/poloska1.png);
+	background-image: url(../images/poloska1.webp);
 	margin-top: 140px;
 }
 
@@ -216,7 +216,7 @@ ul li a {
 
 .benefits {
 	margin-top: 140px;
-	background-image: url(../images/poloska2.png);
+	background-image: url(../images/poloska2.webp);
 	background-repeat: no-repeat;
 }
 
@@ -288,7 +288,7 @@ ul li a {
 	height: 350px;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../images/fon1.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../images/fon1.webp);
 	border-radius: 10px;
 }
 
@@ -500,7 +500,7 @@ button.next {
 	width: 100%;
 	height: 882px;
 	background-repeat: no-repeat;
-	background-image: url(../images/1.png);
+	background-image: url(../images/1.webp);
 	background-size: cover;
 	margin-top: 140px;
 }
@@ -670,14 +670,14 @@ input[type=tel] {
 	width: 30px;
 	height: 30px;
 	background-repeat: no-repeat;
-	background-image: url(../images/unlock.png);
+	background-image: url(../images/unlock.webp);
 
 }
 
 .still__questions {
   width: 100%;
   height: 800px;
-  background: url(../images/fon2.png) no-repeat center / cover;
+  background: url(../images/fon2.webp) no-repeat center / cover;
   margin-top: 140px;
 }
 
